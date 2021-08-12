@@ -16,7 +16,7 @@
 
        }
        {
-         "name":"Karthik Sharma",
+         "name":"Kartik Sharma",
          "course":"Computer science"  
 
       }
@@ -25,5 +25,12 @@
          "course":"Computer science"  
 
       }
+{
+         "name":"Kartik Mishra",
+         "course":"Computer science"  
+
+      }
+
+
     ]
  }

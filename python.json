@@ -11,31 +11,23 @@
        {
           "name":"Roshini",
           "course":"Computer science"
-
-          
-
-       }
+       },
        {
          "name":"Kartik Sharma",
          "course":"Computer science"  
-
-      }
+      },
         {
          "name":"Sameer Dewani",
          "course":"Computer science"  
-
-      }
-{
+      },
+        {
          "name":"Kartik Mishra",
          "course":"Computer science"  
 
-      }
-{
+      },
+        {
          "name":"Harshika Santhoshi",
          "course":"Computer science"  
-
-      }
-
-
+      },
     ]
  }

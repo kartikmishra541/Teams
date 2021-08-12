@@ -1,0 +1,16 @@
+{
+    "Python":[
+       {
+          "name":"Saloni",
+          "course":"Computer science"
+       },
+       {
+          "name":"Karan",
+          "course":"Computer science"
+       },
+       {
+          "name":"Roshini",
+          "course":"Computer science"
+       }
+    ]
+ }
